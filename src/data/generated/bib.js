@@ -1,108 +1,137 @@
 ﻿const generatedBibEntries = {
-    "hu2024optimization": {
+    "hu_optimization_2025": {
+        "abstract": "This article studies the design of vehicular edge computing networks (VECNs) with multiple moving vehicles and roadside units (RSUs). Our study reflects a pragmatic situation where wireless channels are time-varying in the duration of task offloading and vehicles can travel with inconstant speeds in a real-world scenario.",
         "author": "Hu, Dieli and Yuan, Mingang and Huang, Gaofei and Zhao, Sai and Tang, Dong",
+        "doi": "10.1109/JIOT.2024.3488193",
         "journal": "IEEE Internet of Things Journal",
+        "keywords": "vehicular-edge, path-prediction, fading-channel, optimization, mobile-edge-computing, task-offloading",
+        "month": "mar,",
         "number": "5",
         "pages": "5500--5514",
-        "publisher": "IEEE",
-        "title": "Optimization of vehicular edge computing under time-varying fading channels with path prediction",
+        "title": "Optimization of Vehicular Edge Computing Under Time-Varying Fading Channels With Path Prediction",
         "type": "article",
         "volume": "12",
-        "year": "2024"
+        "year": "2025"
     },
-    "jain2025intelligent": {
-        "abstract": "As a cornerstone of the global economy, the automotive industry requires intelligent and reliable maintenance approaches. Predictive maintenance provides a proactive mechanism for timely fault detection, minimized operational interruptions, and prolonged vehicle lifespan. Traditional cloud-based predictive maintenance solutions, however, face latency, bandwidth constraints, and limited scalability challenges in real-time applications. This paper proposes FogBayes, an intelligent predictive maintenance system built on a three-layer Edge\u2013Fog\u2013Cloud architecture to balance computation and minimize latency, employing optimized multivariate machine learning models at its core. The proposed system model achieves a prediction accuracy of 98.88% and an AUC ( Area under curve) of 0.9830, outperforming several baseline approaches. To ensure transparency and reproducibility, the complete source code, datasets, and experimental configurations used in this study are publicly available at https://github.com/TakMashhido/FogBayes.",
+    "jain_intelligent_2025": {
+        "abstract": "As a cornerstone of the global economy, the automotive industry requires intelligent and reliable maintenance approaches. This paper proposes FogBayes, an intelligent predictive maintenance system built on a three-layer Edge-Fog-Cloud architecture to balance computation and minimize latency, employing optimized multivariate machine learning models at its core.",
         "author": "Jain, Preeti and Mondal, Koustav Kumar and Das, Debasis and Khandelwal, Arpit",
-        "doi": "https://doi.org/10.1007/s00607-025-01585-x",
+        "doi": "10.1007/s00607-025-01585-x",
         "journal": "Computing",
+        "keywords": "predictive-maintenance, machine-learning, edge-fog-cloud, optimization, iot, automotive",
+        "month": "dec,",
         "number": "12",
         "pages": "225",
-        "publisher": "Springer",
         "title": "Intelligent predictive maintenance: multivariate ML model optimization in an Edge-Fog-Cloud environment",
         "type": "article",
-        "url": "https://link.springer.com/article/10.1007/s00607-025-01585-x",
         "volume": "107",
         "year": "2025"
     },
-    "radenkovic2012efficient": {
+    "radenkovic_cognitive_2020": {
+        "abstract": "Content caching in the current commercial content delivery networks (CDNs) allows reduction of duplicate traffic and improvement of QoS and QoE but it still suffers from surges of content traffic, network congestion, high mobility of users and dynamic users' content request patterns which may result in high content access latency. We propose a novel multi-agent deep reinforcement learning approach, CognitiveCache, in which edges adaptively learn their best caching policies while collaborating with other neighbouring edges.",
+        "author": "Radenkovic, Milena and Huynh, Vu San Ha",
+        "doi": "10.1109/ACCESS.2020.3027707",
+        "journal": "IEEE Access",
+        "keywords": "edge-caching, deep-reinforcement-learning, multi-agent, mobile-edge, predictive, social-network",
+        "pages": "179561--179574",
+        "title": "Cognitive Caching at the Edges for Mobile Social Community Networks: A Multi-Agent Deep Reinforcement Learning Approach",
+        "type": "article",
+        "volume": "8",
+        "year": "2020"
+    },
+    "radenkovic_efficient_2012": {
+        "abstract": "Detecting and dealing with congestion in delay-tolerant networks (DTNs) is an important and challenging problem. Current DTN forwarding algorithms typically direct traffic towards more central nodes in order to maximise delivery ratios and minimise delays, but as traffic demands increase these nodes may become saturated and unusable. We propose CafRep, an adaptive congestion aware protocol that detects and reacts to congested nodes and congested parts of the network by using implicit hybrid contact and resources congestion heuristics. CafRep exploits localised relative utility based approach to offload the traffic from more to less congested parts of the network, and to replicate at adaptively lower rate in different parts of the network with non-uniform congestion levels.",
         "author": "Radenkovic, Milena and Grundy, Andrew",
+        "doi": "10.1016/j.adhoc.2012.03.013",
         "journal": "Ad Hoc Networks",
+        "keywords": "dtn, congestion-control, opportunistic-networks, heuristic, social-aware, forwarding",
+        "month": "sep,",
         "number": "7",
         "pages": "1322--1345",
-        "publisher": "Elsevier",
         "title": "Efficient and adaptive congestion control for heterogeneous delay-tolerant networks",
         "type": "article",
         "volume": "10",
         "year": "2012"
     },
-    "radenkovic2019enabling": {
+    "radenkovic_enabling_2019": {
+        "abstract": "This paper describes the deployment of the Mobile Opportunistic Disconnection-Tolerant Networks and Systems platform in heterogeneous real-world scenarios. Our aim is to prototype and test fully-distributed multi-layer complex DTN forwarding and processing algorithms in different real-time dynamic topologies with varying mobility, network resources and data workload (publish-subscribe) patterns.",
+        "address": "Barcelona, Spain",
         "author": "Radenkovic, Milena and Huynh, Vu San Ha and John, Robert and Manzoni, Pietro",
         "booktitle": "2019 International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)",
-        "organization": "IEEE",
+        "doi": "10.1109/WiMOB.2019.8923246",
+        "keywords": "vehicular-edge, drones, fog-computing, multi-hop, real-time, dtn, deployment",
+        "month": "oct,",
         "pages": "1--6",
-        "title": "Enabling real-time communications and services in heterogeneous networks of drones and vehicles",
+        "publisher": "IEEE",
+        "title": "Enabling Real-time Communications and Services in Heterogeneous Networks of Drones and Vehicles",
         "type": "inproceedings",
         "year": "2019"
     },
-    "radenkovic2020cognitive": {
-        "author": "Radenkovic, Milena and Huynh, Vu San Ha",
-        "journal": "IEEE access",
-        "pages": "179561--179574",
-        "publisher": "IEEE",
-        "title": "Cognitive caching at the edges for mobile social community networks: A multi-agent deep reinforcement learning approach",
-        "type": "article",
-        "volume": "8",
-        "year": "2020"
-    },
-    "radenkovic2020energy": {
+    "radenkovic_energy_2020": {
+        "abstract": "The fast-growing popularity of electric vehicles (EVs) poses complex challenges for the existing power grid infrastructure to meet the high demands at peak charging hours. We introduce a novel Reinforcement Learning (Q-learning) based SmartCharge algorithm formulated as a finite Markov Decision Process. SmartCharge edge nodes are able to autonomously and collaboratively understand when (how soon) and where the geo-temporal peaks are expected to happen.",
+        "address": "Paris, France",
         "author": "Radenkovic, Milena and Huynh, Vu San Ha",
         "booktitle": "2020 Fifth International Conference on Fog and Mobile Edge Computing (FMEC)",
-        "organization": "IEEE",
+        "doi": "10.1109/FMEC49853.2020.9144973",
+        "keywords": "vehicular-edge, energy, reinforcement-learning, charging, fog-computing, predictive, q-learning",
+        "month": "apr,",
         "pages": "5--12",
-        "title": "Energy-aware opportunistic charging and energy distribution for sustainable vehicular edge and fog networks",
+        "publisher": "IEEE",
+        "title": "Energy-Aware Opportunistic Charging and Energy Distribution for Sustainable Vehicular Edge and Fog Networks",
         "type": "inproceedings",
         "year": "2020"
     },
-    "vasavi2021predictive": {
-        "author": "Vasavi, S and Aswarth, K and Pavan, T Sai Durga and Gokhale, A Anu",
+    "vasavi_predictive_2021": {
+        "abstract": "Smart logistics is a part of Industry 4.0. With the increased development of the technology in the vehicle industry, the machine learning algorithms are applied on sensor data in order to detect the failure of the components of the vehicle. Edge computing is introduced in recent years so that intensive operations are performed at the edge of the device than at the cloud. This paper presents edge computing based fault prediction system that will predict vehicle health using internal and external sensors in real-time.",
+        "author": "Vasavi, S. and Aswarth, K. and Sai Durga Pavan, T. and Anu Gokhale, A.",
+        "doi": "10.1016/j.matpr.2021.03.658",
         "journal": "Materials Today: Proceedings",
+        "keywords": "vehicular-edge, predictive-analytics, machine-learning, k-nn, vehicle-monitoring, ann",
         "pages": "8645--8654",
-        "publisher": "Elsevier",
         "title": "Predictive analytics as a service for vehicle health monitoring using edge computing and AK-NN algorithm",
         "type": "article",
         "volume": "46",
         "year": "2021"
     },
-    "xiao2021adaptivefog": {
+    "xiao_adaptivefog_2022": {
+        "abstract": "Fog computing has been advocated as an enabling technology for computationally intensive services in smart connected vehicles. We propose AdaptiveFog, a novel framework for autonomous and dynamic switching between different LTE networks that implement a fog/cloud infrastructure. AdaptiveFog's main objective is to maximize the service confidence level. We introduce a novel statistical distance metric, called weighted Kantorovich-Rubinstein (K-R) distance.",
         "author": "Xiao, Yong and Krunz, Marwan",
+        "doi": "10.1109/TMC.2021.3080397",
         "journal": "IEEE Transactions on Mobile Computing",
+        "keywords": "fog-computing, vehicular-edge, latency, lte, intelligent-transportation, optimization, measurement",
+        "month": "dec,",
         "number": "12",
         "pages": "4187--4200",
-        "publisher": "IEEE",
-        "title": "AdaptiveFog: A modelling and optimization framework for fog computing in intelligent transportation systems",
+        "title": "AdaptiveFog: A Modelling and Optimization Framework for Fog Computing in Intelligent Transportation Systems",
         "type": "article",
         "volume": "21",
-        "year": "2021"
+        "year": "2022"
     },
-    "yousefpour2019all": {
-        "author": "Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P",
-        "journal": "Journal of systems architecture",
+    "yousefpour_all_2019": {
+        "abstract": "With the Internet of Things (IoT) becoming part of our daily life and our environment, we expect rapid growth in the number of connected devices. IoT is expected to connect billions of devices and humans to bring promising advantages for us. With this growth, fog computing, along with its related edge computing paradigms, such as multi-access edge computing (MEC) and cloudlet, are seen as promising solutions for handling the large volume of security-critical and time-sensitive data that is being produced by the IoT. In this paper, we first provide a tutorial on fog computing and its related computing paradigms, including their similarities and differences. Next, we provide a taxonomy of research topics in fog computing, and through a comprehensive survey, we summarize and categorize the efforts on fog computing and its related computing paradigms. Finally, we provide challenges and future directions for research in fog computing.",
+        "author": "Yousefpour, Ashkan and Fung, Caleb and Nguyen, Tam and Kadiyala, Krishna and Jalali, Fatemeh and Niakanlahiji, Amirreza and Kong, Jian and Jue, Jason P.",
+        "doi": "10.1016/j.sysarc.2019.02.009",
+        "journal": "Journal of Systems Architecture",
+        "keywords": "survey, fog-computing, edge-computing, iot, cloud-computing, taxonomy",
+        "month": "sep,",
         "pages": "289--330",
-        "publisher": "Elsevier",
         "title": "All one needs to know about fog computing and related edge computing paradigms: A complete survey",
         "type": "article",
         "volume": "98",
         "year": "2019"
     },
-    "zakhary2013efficient": {
+    "zakhary_efficient_2014": {
+        "abstract": "This paper proposes a novel fully distributed and collaborative k-anonymity protocol (LPAF) to protect users' location information and ensure better privacy while forwarding queries/replies to/from untrusted location-based service (LBS) over opportunistic mobile networks (OppMNets). We utilize a lightweight multihop Markov-based stochastic model for location prediction to guide queries toward the LBS's location and to reduce required resources in terms of retransmission overheads.",
         "author": "Zakhary, Sameh and Radenkovic, Milena and Benslimane, Abderrahim",
-        "journal": "IEEE transactions on vehicular technology",
+        "doi": "10.1109/TVT.2013.2279671",
+        "journal": "IEEE Transactions on Vehicular Technology",
+        "keywords": "privacy, forwarding, opportunistic-networks, k-anonymity, location-privacy, markov",
+        "month": "feb,",
         "number": "2",
         "pages": "893--906",
-        "publisher": "IEEE",
-        "title": "Efficient location privacy-aware forwarding in opportunistic mobile networks",
+        "title": "Efficient Location Privacy-Aware Forwarding in Opportunistic Mobile Networks",
         "type": "article",
         "volume": "63",
-        "year": "2013"
+        "year": "2014"
     }
 };
