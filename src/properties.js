@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'Edge and Fog Computing for Vehicular and Opportunistic Networks: Literature Collection';
 
 /**
  * Relative path to the data directory
