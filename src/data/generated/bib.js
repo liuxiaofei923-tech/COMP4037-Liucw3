@@ -9,7 +9,7 @@
         "number": "5",
         "pages": "5500--5514",
         "title": "Optimization of Vehicular Edge Computing Under Time-Varying Fading Channels With Path Prediction",
-        "type": "article",
+        "type": "article caching-offloading",
         "volume": "12",
         "year": "2025"
     },
@@ -23,7 +23,7 @@
         "number": "12",
         "pages": "225",
         "title": "Intelligent predictive maintenance: multivariate ML model optimization in an Edge-Fog-Cloud environment",
-        "type": "article",
+        "type": "article predictive-services",
         "volume": "107",
         "year": "2025"
     },
@@ -35,7 +35,7 @@
         "keywords": "edge-caching, deep-reinforcement-learning, multi-agent, mobile-edge, predictive, social-network",
         "pages": "179561--179574",
         "title": "Cognitive Caching at the Edges for Mobile Social Community Networks: A Multi-Agent Deep Reinforcement Learning Approach",
-        "type": "article",
+        "type": "article caching-offloading",
         "volume": "8",
         "year": "2020"
     },
@@ -49,7 +49,7 @@
         "number": "7",
         "pages": "1322--1345",
         "title": "Efficient and adaptive congestion control for heterogeneous delay-tolerant networks",
-        "type": "article",
+        "type": "article forwarding-routing",
         "volume": "10",
         "year": "2012"
     },
@@ -64,7 +64,7 @@
         "pages": "1--6",
         "publisher": "IEEE",
         "title": "Enabling Real-time Communications and Services in Heterogeneous Networks of Drones and Vehicles",
-        "type": "inproceedings",
+        "type": "inproceedings forwarding-routing",
         "year": "2019"
     },
     "radenkovic_energy_2020": {
@@ -78,7 +78,7 @@
         "pages": "5--12",
         "publisher": "IEEE",
         "title": "Energy-Aware Opportunistic Charging and Energy Distribution for Sustainable Vehicular Edge and Fog Networks",
-        "type": "inproceedings",
+        "type": "inproceedings predictive-services",
         "year": "2020"
     },
     "vasavi_predictive_2021": {
@@ -89,7 +89,7 @@
         "keywords": "vehicular-edge, predictive-analytics, machine-learning, k-nn, vehicle-monitoring, ann",
         "pages": "8645--8654",
         "title": "Predictive analytics as a service for vehicle health monitoring using edge computing and AK-NN algorithm",
-        "type": "article",
+        "type": "article predictive-services",
         "volume": "46",
         "year": "2021"
     },
@@ -103,7 +103,7 @@
         "number": "12",
         "pages": "4187--4200",
         "title": "AdaptiveFog: A Modelling and Optimization Framework for Fog Computing in Intelligent Transportation Systems",
-        "type": "article",
+        "type": "article caching-offloading",
         "volume": "21",
         "year": "2022"
     },
@@ -116,7 +116,7 @@
         "month": "sep,",
         "pages": "289--330",
         "title": "All one needs to know about fog computing and related edge computing paradigms: A complete survey",
-        "type": "article",
+        "type": "article survey",
         "volume": "98",
         "year": "2019"
     },
@@ -130,7 +130,7 @@
         "number": "2",
         "pages": "893--906",
         "title": "Efficient Location Privacy-Aware Forwarding in Opportunistic Mobile Networks",
-        "type": "article",
+        "type": "article forwarding-routing",
         "volume": "63",
         "year": "2014"
     }
